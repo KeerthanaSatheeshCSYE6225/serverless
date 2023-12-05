@@ -5,6 +5,7 @@
         "@pulumi/aws": "^6.0.0",
         "@pulumi/awsx": "^2.0.2",
         "@pulumi/pulumi": "^3.0.0",
+        "axios": "^1.6.2",
         "mailgun-js": "^0.22.0"
     }
 }
